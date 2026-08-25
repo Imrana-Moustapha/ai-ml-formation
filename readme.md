@@ -59,4 +59,4 @@ jupyter lab
 
 ## Notes
 
-Chaque notebook contient des cellules Markdown expliquant la démarche et les résultats, pas seulement du code brut — l'objectif est que ce dépôt serve aussi de portfolio consultable par un recruteur.
+Chaque notebook contient des cellules Markdown expliquant la démarche et les résultats, pas seulement du code brut l'objectif est que ce dépôt serve aussi de portfolio consultable par un recruteur.
