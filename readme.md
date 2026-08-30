@@ -1,4 +1,4 @@
-# AI/ML Formation — Parcours vers AI/ML Engineer
+# AI/ML Formation Parcours vers AI/ML Engineer
 
 Dépôt de suivi de ma formation en Machine Learning et Deep Learning, dans l'objectif de devenir AI/ML Engineer. Développeur web full stack de formation, je documente ici chaque étape : exercices, projets de synthèse par phase, et notes techniques.
 
